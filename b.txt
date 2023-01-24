@@ -3,4 +3,5 @@ This is session #1
 git clone
 git status
 git branch
+git push
 and whatever ...
