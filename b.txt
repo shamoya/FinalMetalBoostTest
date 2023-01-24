@@ -1,0 +1,6 @@
+This is session #1
+
+git clone
+git status
+git branch
+and whatever ...
